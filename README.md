@@ -1,4 +1,4 @@
-## Hi,I'm Krushna 👋
+## Hi, I'm Krushna 👋
 Python Developer AI & ML Student
 
 ## Skills :
