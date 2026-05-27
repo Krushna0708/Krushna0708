@@ -16,7 +16,7 @@ Python Developer AI & ML Student
 ## Goals :
 - Become AI Engineer
 - Build Real Project
-- Open Source COntributor
+- Open Source Contributor
 
 ## Connect With Me :
 - GitHub: https://github.com/Krushna0708
