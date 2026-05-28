@@ -20,3 +20,6 @@ Python Developer AI & ML Student
 
 ## Connect With Me :
 - GitHub: https://github.com/Krushna0708
+- Linkedin: https://linkedin.com/in/krushna-nagre
+
+
